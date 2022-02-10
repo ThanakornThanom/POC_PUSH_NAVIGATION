@@ -1,0 +1,7 @@
+Versions of External Library that we use in our sdk.
+
+PinCache: 3.0.3
+SocketIO: 15.2.0
+Starscream: 3.1.0
+Alamofire: 5.4.1
+
